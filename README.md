@@ -1,2 +1,3 @@
 # 24F2767-YAKANA NDEGA
-le programme inverser permet a l'utilisateur d'inverser les valeurs qu'il a inséré dans le tableau 
+Ce code permet dinverser les différents éléments d'un tableau.
+La plus grande difficulté s'est retrouvée où il fallait utiliser judicieusement la comparaison entre les différentes valeurs afin de renverser l'ordre initialement choisi.
